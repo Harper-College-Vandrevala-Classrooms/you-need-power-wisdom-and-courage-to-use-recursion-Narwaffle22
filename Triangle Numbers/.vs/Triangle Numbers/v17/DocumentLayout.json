@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\D242U18\\Documents\\GitHub\\you-need-power-wisdom-and-courage-to-use-recursion-Narwaffle22\\Triangle Numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8784B909-37A9-4452-B693-7361F10EB123}|Triangle Numbers\\Triangle Numbers.vcxproj|C:\\Users\\D242U18\\Documents\\GitHub\\you-need-power-wisdom-and-courage-to-use-recursion-Narwaffle22\\Triangle Numbers\\Triangle Numbers\\Triangle Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8784B909-37A9-4452-B693-7361F10EB123}|Triangle Numbers\\Triangle Numbers.vcxproj|solutionrelative:Triangle Numbers\\Triangle Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Triangle Numbers.cpp",
+              "DocumentMoniker": "C:\\Users\\D242U18\\Documents\\GitHub\\you-need-power-wisdom-and-courage-to-use-recursion-Narwaffle22\\Triangle Numbers\\Triangle Numbers\\Triangle Numbers.cpp",
+              "RelativeDocumentMoniker": "Triangle Numbers\\Triangle Numbers.cpp",
+              "ToolTip": "C:\\Users\\D242U18\\Documents\\GitHub\\you-need-power-wisdom-and-courage-to-use-recursion-Narwaffle22\\Triangle Numbers\\Triangle Numbers\\Triangle Numbers.cpp",
+              "RelativeToolTip": "Triangle Numbers\\Triangle Numbers.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T22:38:31.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
