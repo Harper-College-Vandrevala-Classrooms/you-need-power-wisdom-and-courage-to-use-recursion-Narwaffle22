@@ -3,8 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\D242U18\\Documents\\GitHub\\you-need-power-wisdom-and-courage-to-use-recursion-Narwaffle22\\Triangle Numbers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8784B909-37A9-4452-B693-7361F10EB123}|Triangle Numbers\\Triangle Numbers.vcxproj|C:\\Users\\D242U18\\Documents\\GitHub\\you-need-power-wisdom-and-courage-to-use-recursion-Narwaffle22\\Triangle Numbers\\Triangle Numbers\\Triangle Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8784B909-37A9-4452-B693-7361F10EB123}|Triangle Numbers\\Triangle Numbers.vcxproj|solutionrelative:Triangle Numbers\\Triangle Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D242U18\\Documents\\GitHub\\you-need-power-wisdom-and-courage-to-use-recursion-Narwaffle22\\Triangle Numbers\\Triangle Numbers\\Triangle Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Triangle Numbers\\Triangle Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\crt\\src\\vcruntime\\debugger_jmc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,8 +20,17 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "debugger_jmc.c",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\crt\\src\\vcruntime\\debugger_jmc.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\crt\\src\\vcruntime\\debugger_jmc.c",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\crt\\src\\vcruntime\\debugger_jmc.c",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\crt\\src\\vcruntime\\debugger_jmc.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-12T22:22:18.475Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +40,7 @@
               "RelativeDocumentMoniker": "Triangle Numbers\\Triangle Numbers.cpp",
               "ToolTip": "C:\\Users\\D242U18\\Documents\\GitHub\\you-need-power-wisdom-and-courage-to-use-recursion-Narwaffle22\\Triangle Numbers\\Triangle Numbers\\Triangle Numbers.cpp",
               "RelativeToolTip": "Triangle Numbers\\Triangle Numbers.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-11T22:38:31.215Z",
               "EditorCaption": ""
